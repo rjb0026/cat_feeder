@@ -1,0 +1,1 @@
+avrdude -c arduino -p m328p -P /dev/ttyACM0 -b 19200 -U flash:w:main.hex

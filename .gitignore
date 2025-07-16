@@ -1,0 +1,5 @@
+*.o
+*.elf
+*.eep
+*.hex
+ycm_extra_conf.py
